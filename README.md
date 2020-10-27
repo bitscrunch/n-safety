@@ -6,6 +6,9 @@ So We have built an AI system that generates additional trust by flagging forger
 # Live working demo of the project
 https://nsafety.bitscrunch.com
 
+#Demo Video 
+[![N-Safety]](https://youtu.be/Nny7RcSuJPs)
+
 # Walkthrough of n-safety project
 
 ![alt text](https://github.com/bitscrunch/n-safety/blob/main/images/image1.png?raw=true)
