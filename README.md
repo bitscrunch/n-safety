@@ -9,6 +9,11 @@ https://nsafety.bitscrunch.com
 # Demo Video 
 [![N-Safety](https://github.com/bitscrunch/n-safety/blob/main/images/thumbnail.jpg)](https://youtu.be/Nny7RcSuJPs)
 
+# Link to the Blog Post
+N_Safety Forgery Detection Model Untitled NFT Hackathon Submission
+https://kylewebster.medium.com/n-safety-forgery-detection-model-untitled-nft-hackathon-submission-11fb9c2b01b1
+
+
 # Walkthrough of n-safety project
 
 ![alt text](https://github.com/bitscrunch/n-safety/blob/main/images/image1.png?raw=true)
